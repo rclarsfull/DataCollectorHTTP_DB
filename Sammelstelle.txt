@@ -1,0 +1,2476 @@
+2021-02-16T19:20:02.598314100AnfangUpdate{
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kulanzregelung nach Wintereinbruch in Deutschland <span>(Fernverkehr)</span></h2>
+			<p class="duration">Bis Donnerstag, 18.02.2021 Tagesende</p>
+		</header>
+		<div class="cont">
+			
+			<h3 class="bullet-list-headline">Kulanzregelung für vom Wintereinbruch betroffene Reisende</h3>
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Gültigkeit der Tickets </B><BR />
+Alle Fahrgäste, die im Zeitraum vom <B>06.02.2021</B> bis <B>11.02.2021</B> ihre Reise aufgrund des Wintereinbruchs verschoben haben, können ihr <B>Ticket für den Fernverkehr</B> bis einschließlich Donnerstag, den 18.02.2021, entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen können kostenfrei umgetauscht werden.<BR />
+<BR />
+Hier finden Sie das entsprechende <a class="arrowlink bold" href="https://www.bahn.de/p/view/home/info/sonderkommunikation-kulanz.shtml" target="_blank">Erstattungsformular</a> für online gebuchte Tickets. Bitte informieren Sie sich nochmals auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml" target="_blank">bahn.de/fahrgastrechte</a></p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a> oder im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a>.</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 04:50 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen im Fernverkehr von/nach Tschechien und Österreich/Italien <span>(Behördliche Anordnung)</span></h2>
+			<p class="duration">bis vsl. Sonntag, den 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnungen kommt es zu Einschränkungen im Fernverkehr von/nach Tschechien und Österreich/Italien.</p></div></div>
+			<h3 class="bullet-list-headline">Folgende Verbindungen sind betroffen: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>EC/RJ-Züge (Budapest –) Prag – Dresden – Berlin – Hamburg (– Kiel) fallen auf dem gesamten Laufweg aus.</span></li>
+        <li><span>EC-Züge Verona – Innsbruck – Kufstein – München fallen auf dem gesamten Laufweg aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Wir empfehlen Ihnen, geplante Reisen mit diesen Verbindungen im besagten Zeitraum zu verschieben. Es muss davon ausgegangen werden, dass die behördlichen Anordnungen ggf. über den 21.02.2021 hinaus verlängert werden.<BR />
+<BR />
+Informationen zur Erstattung von Fahrkarten der Deutschen Bahn finden Sie in einer separaten Meldung auf dieser Seite.<BR />
+<BR />
+Bitte nutzen Sie für Reisen zwischen Hamburg, Berlin und Dresden die verbleibenden Fernzüge der Deutschen Bahn. Einzelne ICE-Züge halten zwischen Hamburg und Berlin zusätzlich in Büchen, Ludwigslust und Wittenberge.<BR />
+</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 14:51 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Schnee und Frost: Regionalverkehr der Deutschen Bahn normalisiert sich in Niedersachsen und Bremen <span>(Wintereinbruch)</span></h2>
+			<p class="duration">bis mindestens Mittwoch, den 17. Februar 2021, Tagesende</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach dem Wintereinbruch in der vergangenen Woche stabilisiert sich der Regionalverkehr der Deutschen Bahn in Niedersachsen und Bremen zunehmend. Es kann weiterhin vereinzelt zu witterungsbedingten Fahrzeug- und Weichenstörungen kommen. Durch die schlechten Straßenverhältnissen, kann ein Busnotverkehr nicht garantiert werden.<BR />
+<BR />
+Wir rechnen zum jetzigen Zeitpunkt (16. Februar, 18:00 Uhr) damit, dass am Mittwoch, 17.02.2021, zum Tagesende die Einschränkungen weitestgehend aufgehoben werden. Näheres entnehmen Sie bitte der aufgeführten Liste.<BR />
+</p></div></div>
+			<h3 class="bullet-list-headline">Es liegen derzeit folgende witterungsbedingte Einschränkungen vor:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>S5 Hannover (Flughafen) - Hameln - Paderborn:<BR />
+Es verkehren bis Dienstag, 16.02.2021, Tagesende, nur die S-Bahnen von und nach Paderborn Hbf (Stundentakt)</span></li>
+        <li><span>S51 Expresslinie Seelze - Hannover Hbf - Hameln:<BR />
+Der Betrieb ist bis Dienstag, 16.02.21, Tagesende eingestellt.</span></li>
+        <li><span>S6  Celle - Burgdorf - Hannover Hbf:<BR />
+Der Betrieb ist bis Mittwoch, 17.02.21, Tagesende eingestellt.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Bitte geben Sie acht auf vereiste und glatte Bahnsteige. Durch gesperrte Bahnsteige kann es außerdem zu Haltausfällen kommen.<BR />
+<BR />
+Witterungsbedingt ist die Spaltüberbrückung der S-Bahn teilweise ausgeschaltet. Es kann zwischen Bahnsteig und Fahrzeugeinstieg zu einer Spalte kommen. Bitte seien Sie umsichtig beim Ein- und Ausstieg.<BR />
+<BR />
+Wir werden Sie auf dieser Seite auf dem Laufenden halten. Die nächste Aktualisierung erfolgt, sobald uns neue Informationen vorliegen.<BR />
+<BR />
+Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://reiseauskunft.bahn.de">bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator-App</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Niedersachsen auf <a class="arrowlink bold" href="https://twitter.com/dbregio_NDS">Twitter</a>.<BR />
+<BR />
+Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml">bahn.de/fahrgastrechte</a>.<BR />
+<BR />
+Für die entstehenden Unannehmlichkeiten und Reisezeitverlängerungen bitten wir um Entschuldigung. </p>
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 18:08 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen zwischen Hannover und Magdeburg <span>(Störung an einem Bahnübergang)</span></h2>
+			<p class="duration">Am heutigen Dienstag, 16. Februar 2021 vsl. bis zum Ende des Tages</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund einer Bahnübergangsstörung zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.<BR />
+<BR />
+Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Aufgrund der Umleitung entfallen die Halte in Peine, Braunschweig Hbf und Helmstedt. Ersatzweise halten die Züge in Wolfsburg Hbf.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig</span></li>
+        <li><span>Die IC-Züge Köln – Dortmund – Hannover – Magdeburg – Leipzig – Dresden fahren auf ihrem geplanten Weg.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Zwischen Hannover und Braunschweig sowie zwischen Braunschweig und Magdeburg verkehren alle zwei Stunden die IC-Züge Köln - Dortmund - Hannover - Leipzig - Dresden sowie Züge des Regionalverkehrs.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis zum Ende des heutigen 16.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 11:02 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Streckensperrung zwischen Rostock und Stralsund <span>(Unfall an einem Bahnübergang)</span></h2>
+			<p class="duration">Vsl. bis einschließlich Sonntag, 21. Februar 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach einem Unfall an einem Bahnübergang in Ribnitz-Damgarten West ist die Strecke zwischen Rostock und Stralsund derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn auf einem Teilabschnitt ihrer Fahrt entfallen.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>Alle Fernverkehrszüge zwischen Hamburg und Ostseebad Binz / Stralsund fallen in beiden Fahrtrichtungen zwischen Rostock Hbf und Stralsund Hbf bzw. Ostseebad Binz aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Aktuell besteht kein Zugverkehr zwischen Rostock und Velgast bzw. Stralsund. Ein stark eingeschränkter Ersatzverkehr mit Bussen ist eingerichtet. Zwischen Stralsund und Ostseebad Binz verkehren die Züge des Regionalverkehrs sowie Züge des Fernverkehrs der Relation Berlin - Stralsund - Ostseebad Binz.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis in die späten Abendstunden am 21.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:19 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zusatzverbindungen der DB Regio SH zwischen Niebüll und Westerland (Sylt) <span>(Fahrplanerweiterung)</span></h2>
+			<p class="duration">ab Montag, 25.01.2021 bis 25.03.2021 </p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Ab dem 25.01.2021, bis 25.03.2021, jeweils Montag bis Freitag, bietet der Sylt Shuttle plus im Auftrag der DB Regio und der NAH.SH zusätzliche Verbindungen zwischen Niebüll und Westerland (Sylt) an. Diese dienen der Entlastung einzelner Regional-Express Züge. </p></div></div>
+			<h3 class="bullet-list-headline">Betrifft die Linie: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>RE6 Hamburg-Altona - Husum - Niebüll - Westerland(Sylt) </span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sie finden die Zusatzverbindungen ab sofort auch in unseren digitalen Reiseauskunftsmedien (bahn.de, DB Navigator sowie DB Streckenagent).<BR />
+<BR />
+Die detaillierten Fahrpläne finden Sie unten im Link.<BR />
+<BR />
+Folgende Zusatzzüge werden angeboten:<BR />
+<BR />
+-	05:16 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 05:51 Uhr<BR />
+-	07:46 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 08:21 Uhr<BR />
+<BR />
+-	06:40 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 07:15 Uhr<BR />
+-	10:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 11:13 Uhr<BR />
+<BR />
+Reguläre Sylt Shuttle plus Züge, die ab dem Montag, 25.01.2021 bis 25.03.2021 für Nahverkehrsreisenden freigegeben sind zwischen Niebüll und Westerland (Sylt):<BR />
+<BR />
+-	06:32 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 07:30 Uhr<BR />
+-       08:02 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 09:00 Uhr<BR />
+<BR />
+-	13:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 14:27 Uhr<BR />
+-	14:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 15:27 Uhr<BR />
+-	16:05 Uhr ab Westerland (Sylt), Ankunft in Niebüll 16:57 Uhr<BR />
+<BR />
+Bitte beachten Sie noch diese Hinweise:<BR />
+-       Je zusätzliche Verbindung stehen ca. 150 bzw. 450 Plätze zur Verfügung.<BR />
+-       Diese Züge verkehren ohne rollstuhlgerechte Einrichtung, und es ist kein behindertengerechtes WC im Zug.<BR />
+<BR />
+Außerdem hält IC 2073 Montag bis Freitag (Westerland (Sylt) ab 15:26 Uhr) zusätzlich in Keitum (15:30 Uhr) und in Klanxbüll (15:44 Uhr).<BR />
+Der Zug ist Montag bis Freitag bis Niebüll für Reisenden des Nahverkehrs freigegeben.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_kiel/fahrplne/mdb_326869_anb-awla_zusatzverbindungen_250121-250321_korrektur.pdf" target="_blank">Zusatzverbindungen Niebüll - Westerland (PDF, 180.78KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte informieren Sie sich vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://www.bahn.de/reiseauskunft" target="_blank">www.bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/buchung/handy-ticket.shtml" target="_blank">DB Navigator</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Schleswig-Holstein auf <a class="arrowlink bold" href="https://twitter.com/DBRegio_SH?lang" target="_blank">Twitter</a>. </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:56 Uhr - DB Regio Nord (TP Kiel)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kurzfristiger Schienenersatzverkehr zwischen Straußfurt und Nordhausen <span>(Ausfall der Züge / Züge werden durch Schienenersatzverkehr ersetzt)</span></h2>
+			<p class="duration">zwischen dem 13. und 28. Februar</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund der Erkrankung mehrerer Mitarbeiter*innen können die Stellwerke auf der Strecke Erfurt – Wolkramshausen, Abschnitt Greußen – Kleinfurra, zwischen dem <B>13. und 17. Februar 2021 nach 15.30 Uhr</B> nicht besetzt werden.<BR />
+<BR />
+Entsprechend verkehren die Züge der DB Regio auf der Linie <B>RE 55/56 Erfurt - Nordhausen auf dem Streckenabschnitt Straußfurt – Nordhausen </B> nach 15.30 Uhr im Schienenersatzverkehr. Die Züge zwischen <B>Erfurt Hauptbahnhof und Straußfurt</B> sind von den Einschränkungen nicht betroffen.<BR />
+<BR />
+An den Wochenenden 20./21. Februar 2021 und 27./28. Februar 2021 verkehrt der Schienenersatzverkehr <B>ganztags</B>.<BR />
+<BR />
+Die Änderungen sind ab 19. Februar 2021 im Online Fahrplan integriert. Die DB arbeitet mit Hochdruck daran, die Besetzung der Stellwerke möglichst schnell wieder vollumfänglich zu gewährleisten.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326851_sev-tabelle_straufurt_-_nordhausen.pdf" target="">Schienenersatzverkehr Straußfurt - Nordhausen und zurück (PDF, 105.87KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 14:44 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">U 28: Entfall Bedienung durch Zug im deutschen Linienabschnitt ab 14.02.2021 <span>(Ausfall der Züge im Abschnitt Sebnitz – Bad Schandau – Schöna)</span></h2>
+			<p class="duration">ab 14. Februar 2021 bis auf weiteres</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sehr geehrte Damen und Herren,<BR />
+<BR />
+auf Grund der Einstufung der Tschechischen Republik als Virusvarianten-Gebiet (im Zusammenhang mit dem Corona-Virus) durch das Auswärtige Amt, Bundesministerium für Gesundheit und Bundesministerium des Inneren wird ab 14.02.2021, 0.00 Uhr bis auf Weiteres kein grenzüberschreitender Eisenbahnpersonenverkehr möglich sein.<BR />
+<BR />
+Auf der Linie <B>U 28 (Děčín – Bad Schandau – Sebnitz – Rumburk)</B> können dadurch keine Züge im Abschnitt:<BR />
+<BR />
+<B>Sebnitz – Bad Schandau – Schöna</B><BR />
+<BR />
+genutzt werden.<BR />
+<BR />
+Es besteht folgendes Ersatzangebot:<BR />
+<BR />
+•	Schienenersatzverkehr im Abschnitt Sebnitz – Bad Schandau und zurück (alternative Reisemöglichkeit mit Regionalbuslinie 260)<BR />
+•	S-Bahn Linie S 1 im Abschnitt Bad Schandau – Schöna<BR />
+•	im grenzüberschreitenden Verkehr besteht kein Ersatzangebot<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326785_aush_fplo_corona_u_28_dseb-dsa_dkh-dpsc_14_02_21-baw.pdf" target="_blank">Schienenersatzverkehr Bad Schandau - Sebnitz // Pendelverkehr Goßdorf-Kohlmühle - Porschdorf (PDF, 696.22KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 12.02.2021 17:01 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0"> Ausfall IRE-Züge Berlin - Hamburg  <span>(betriebliche Gründe)</span></h2>
+			<p class="duration">verlängert bis 31. März 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Die IRE-Züge fallen aus betrieblichen Gründen bis 31. März 2021 aus.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Berlin - Hamburg:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE2 mit Umstieg in Schwerin Hbf in die Züge des RE1. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+<BR />
+<B>Hamburg - Berlin:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE1 mit Umstieg in Schwerin Hbf in die Züge des RE2. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+</p>
+					
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Die aktualisierten Fahrplandaten stehen in den digitalen Auskunftsmedien zur Verfügung.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten, Mund und Nase bedecken! Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.12.2020 11:31 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Aktualisierung -  einige Züge der Linien RE4 und RB66 fahren ab 1. Februar wieder zwischen Szczecin Główny und Löcknitz bzw. Tantow, der Großteil der Züge der Linien RE4 und RB66 fällt weiterhin aus <span>(Zugausfälle aufgrund behördlicher Anordnung )</span></h2>
+			<p class="duration">bis vsl. 28. Februar 2021</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund einer Anordnung der polnischen Behörden im Zusammenhang mit der Covid-19 Pandemie gibt es ab 28. Dezember Einschränkungen im grenzüberschreitenden Zugverkehr zwischen Deutschland und Polen auf den Linien <B>RE4 (Lübeck - Pasewalk - Szczecin)</B> sowie <B>RE/RB66 (Berlin - Angermünde - Szczecin)</B>.<BR />
+<BR />
+<B>Vom 1. Februar bis vsl. 28. Februar 2021 gelten folgende Regelungen:</B><BR />
+<BR />
+Folgende Züge der Linie RE/RB66 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RB 5803 Szczecin Główny ab 19:51 Uhr nach Berlin Gesundbrunnen<BR />
+•	RB 5809 Szczecin Główny ab 10:06 Uhr nach Berlin Gesundbrunnen<BR />
+<BR />
+•	RB 5800 Berlin Gesundbrunnen ab 08:04 Uhr nach Szczecin Główny<BR />
+•	RB 5802 Berlin Gesundbrunnen ab 17:19 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE/RB66 entfallen weiterhin zwischen Szczecin Główny und  Tantow.<BR />
+<BR />
+Folgende Züge der Linie RE4 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RE 5354 Szczecin Główny ab 09:00 Uhr nach Lübeck Hbf<BR />
+•	RE 5362 Szczecin Główny ab 17:00 Uhr nach Lübeck Hbf<BR />
+<BR />
+•	RE 5353 Bützow ab 05:33 Uhr nach Szczecin Główny<BR />
+•	RE 5361 Lübeck Hbf ab 12:02 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE4 entfallen weiterhin zwischen Szczecin Główny und Löcknitz. Zwischen Löcknitz und Grambow ist ein Ersatzverkehr mit einem Großraumtaxi [siehe Fahrplantabelle] eingerichtet.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_nordost/mdb_326671_20210128_ev_mv_re4_wlk_xpsg_01_02-13_02_2021_fpl_m1_suh_k.pdf" target="_blank">Ersatzfahrplan (PDF, 152.70KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft oder vbb.de, in der App DB Navigator oder in der VBB-App Bus&Bahn, in der App DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten und medizinische Maske tragen! An Haltestellen und Bahnhöfen sowie in Fahrzeugen.Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.02.2021 10:23 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Hamburg <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage der S-Bahn Hamburg finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnHamburg" target="_blank">Twitter-Kanal</a>.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.03.2020 16:32 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Information zur Baumaßnahme Trier ↔ Merzig <span>(Verlegung der SEV-Haltestelle)</span></h2>
+			<p class="duration">11.01.2021 - 08.03.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Um einen reibungsloseren Ablauf und die Einhaltung der Fahrzeiten möglich zu machen, werden die Ersatzverkehr-Haltestellen in Saarhölzbach, Wiltingen und Serrig verlegt. </p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Die Haltstelle Saarhölzbach finden Sie ab dem 11.01.21 in der Straße &quot;Im Saartal&quot;. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<B> Die Haltestelle in Serrig finden Sie ab ab sofort in der Martinusstraße. </B><BR />
+<BR />
+<B> Die Haltestelle in Wiltingen(Saar) finden Sie ab sofort an der Ecke Bahnhofstraße / Rosi's Weinstube. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<BR />
+<B> Die Haltestelle am Bahnhof Kreuz Konz finden Sie ab sofort bis zum 08.02.21 auf dem P&R Parkplatz. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_325885_sev_saarhlzbach.pdf" target="_blank">Wegbeschreibung → Saarhölzbach (PDF, 311.81KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326106_schienenersatzverkehr_kreuz_konz.pdf" target="_blank">Wegbescheibung → Kreuz Konz (PDF, 216.93KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326581_sev_wiltingen.pdf" target="">Wegbescheibung → Wiltingen (PDF, 134.27KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Baumaßnahme auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter:<BR />
+<a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+DB Regio AG, Region Mitte </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 09:30 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zugausfälle im grenzüberschreitenden Verkehr nach Frankreich <span>(behördliche Anordnung / Baumaßnahmen)</span></h2>
+			<p class="duration">vsl. bis 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnung im Zusammenhang mit der Covid-19 Pandemie und zusätzlichen Baumaßnahmen bei der SNCF kommt es im grenzüberschreitenden Verkehr von Saarbrücken nach Metz  und von Trier nach Metz zu Zugausfällen.<BR />
+</p></div></div>
+			
+			
+      <ul class="bullet-list">
+        <li><span>RE16 Trier - Perl - Apach - Metz</span></li>
+        <li><span>RE18 Saarbrücken - Forbach - Metz</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Die Züge der Linie RE16 (Sa + So) entfallen zwischen Trier und Metz ersatzlos.<BR />
+<BR />
+Die ausfallenden Züge der Linie RE18 werden zwischen Saarbrücken und Forbach durch Busse ersetzt.<BR />
+Die Ersatzfahrpläne finden Sie in angefügtem Download.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326794_saarbrcken-forbach-metz_ab_01_02_21.pdf" target="_blank">Ersatzverkehr Saarbrücken - Forbach ab 01.02.2021 (PDF, 83.73KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Störung auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter <a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+<BR />
+DB Regio AG, Region Mitte<BR />
+</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 13.02.2021 21:41 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Berlin <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Informationen zur Anpassung der Verkehrsleistung finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/aktuelles/artikel/informationen-zum-coronavirus-covid-19" target="_blank">hier.</a><BR />
+<BR />
+Meldungen über die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/fahren/fahrplanaenderungen/" target="_blank">hier.</a><BR />
+<BR />
+Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnBerlin" target="_blank">Twitterkanal.</a><BR />
+</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 27.03.2020 14:17 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der DB Regio Bayern <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage des Regionalverkehrs in Bayern finden Sie auf den folgenden Seiten:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="/regional/view/regionen/bayern/services/aktuelle_betriebslage.shtml" target="_blank">Meldungen der DB Regio Bayern</a></span></li>
+              
+              <li><span><a href="/s_muenchen/view/fahrplan/betriebslage.shtml" target="_blank">Meldungen der S-Bahn München</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 07.12.2020 09:08 Uhr - DB Regio Bayern (TP Süd)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Stuttgart <span>(Betriebslage)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden Sie auf:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="https://www.s-bahn-stuttgart.de/s-stuttgart/betriebslage-4097192" target="_blank">Betriebslage der S-Bahn Stuttgart</a></span></li>
+              
+              <li><span><a href="https://twitter.com/SBahn_Stuttgart" target="_blank">Twitter</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 20.02.2020 10:57 Uhr - DB Regio Baden-Württemberg (TP Karlsruhe)</p>
+		</footer>
+	</article>
+
+}EndeUpdate
+
+
+2021-02-16T19:21:52.320148500AnfangUpdate{
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kulanzregelung nach Wintereinbruch in Deutschland <span>(Fernverkehr)</span></h2>
+			<p class="duration">Bis Donnerstag, 18.02.2021 Tagesende</p>
+		</header>
+		<div class="cont">
+			
+			<h3 class="bullet-list-headline">Kulanzregelung für vom Wintereinbruch betroffene Reisende</h3>
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Gültigkeit der Tickets </B><BR />
+Alle Fahrgäste, die im Zeitraum vom <B>06.02.2021</B> bis <B>11.02.2021</B> ihre Reise aufgrund des Wintereinbruchs verschoben haben, können ihr <B>Ticket für den Fernverkehr</B> bis einschließlich Donnerstag, den 18.02.2021, entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen können kostenfrei umgetauscht werden.<BR />
+<BR />
+Hier finden Sie das entsprechende <a class="arrowlink bold" href="https://www.bahn.de/p/view/home/info/sonderkommunikation-kulanz.shtml" target="_blank">Erstattungsformular</a> für online gebuchte Tickets. Bitte informieren Sie sich nochmals auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml" target="_blank">bahn.de/fahrgastrechte</a></p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a> oder im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a>.</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 04:50 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen im Fernverkehr von/nach Tschechien und Österreich/Italien <span>(Behördliche Anordnung)</span></h2>
+			<p class="duration">bis vsl. Sonntag, den 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnungen kommt es zu Einschränkungen im Fernverkehr von/nach Tschechien und Österreich/Italien.</p></div></div>
+			<h3 class="bullet-list-headline">Folgende Verbindungen sind betroffen: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>EC/RJ-Züge (Budapest –) Prag – Dresden – Berlin – Hamburg (– Kiel) fallen auf dem gesamten Laufweg aus.</span></li>
+        <li><span>EC-Züge Verona – Innsbruck – Kufstein – München fallen auf dem gesamten Laufweg aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Wir empfehlen Ihnen, geplante Reisen mit diesen Verbindungen im besagten Zeitraum zu verschieben. Es muss davon ausgegangen werden, dass die behördlichen Anordnungen ggf. über den 21.02.2021 hinaus verlängert werden.<BR />
+<BR />
+Informationen zur Erstattung von Fahrkarten der Deutschen Bahn finden Sie in einer separaten Meldung auf dieser Seite.<BR />
+<BR />
+Bitte nutzen Sie für Reisen zwischen Hamburg, Berlin und Dresden die verbleibenden Fernzüge der Deutschen Bahn. Einzelne ICE-Züge halten zwischen Hamburg und Berlin zusätzlich in Büchen, Ludwigslust und Wittenberge.<BR />
+</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 14:51 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Schnee und Frost: Regionalverkehr der Deutschen Bahn normalisiert sich in Niedersachsen und Bremen <span>(Wintereinbruch)</span></h2>
+			<p class="duration">bis mindestens Mittwoch, den 17. Februar 2021, Tagesende</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach dem Wintereinbruch in der vergangenen Woche stabilisiert sich der Regionalverkehr der Deutschen Bahn in Niedersachsen und Bremen zunehmend. Es kann weiterhin vereinzelt zu witterungsbedingten Fahrzeug- und Weichenstörungen kommen. Durch die schlechten Straßenverhältnissen, kann ein Busnotverkehr nicht garantiert werden.<BR />
+<BR />
+Wir rechnen zum jetzigen Zeitpunkt (16. Februar, 18:00 Uhr) damit, dass am Mittwoch, 17.02.2021, zum Tagesende die Einschränkungen weitestgehend aufgehoben werden. Näheres entnehmen Sie bitte der aufgeführten Liste.<BR />
+</p></div></div>
+			<h3 class="bullet-list-headline">Es liegen derzeit folgende witterungsbedingte Einschränkungen vor:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>S5 Hannover (Flughafen) - Hameln - Paderborn:<BR />
+Es verkehren bis Dienstag, 16.02.2021, Tagesende, nur die S-Bahnen von und nach Paderborn Hbf (Stundentakt)</span></li>
+        <li><span>S51 Expresslinie Seelze - Hannover Hbf - Hameln:<BR />
+Der Betrieb ist bis Dienstag, 16.02.21, Tagesende eingestellt.</span></li>
+        <li><span>S6  Celle - Burgdorf - Hannover Hbf:<BR />
+Der Betrieb ist bis Mittwoch, 17.02.21, Tagesende eingestellt.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Bitte geben Sie acht auf vereiste und glatte Bahnsteige. Durch gesperrte Bahnsteige kann es außerdem zu Haltausfällen kommen.<BR />
+<BR />
+Witterungsbedingt ist die Spaltüberbrückung der S-Bahn teilweise ausgeschaltet. Es kann zwischen Bahnsteig und Fahrzeugeinstieg zu einer Spalte kommen. Bitte seien Sie umsichtig beim Ein- und Ausstieg.<BR />
+<BR />
+Wir werden Sie auf dieser Seite auf dem Laufenden halten. Die nächste Aktualisierung erfolgt, sobald uns neue Informationen vorliegen.<BR />
+<BR />
+Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://reiseauskunft.bahn.de">bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator-App</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Niedersachsen auf <a class="arrowlink bold" href="https://twitter.com/dbregio_NDS">Twitter</a>.<BR />
+<BR />
+Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml">bahn.de/fahrgastrechte</a>.<BR />
+<BR />
+Für die entstehenden Unannehmlichkeiten und Reisezeitverlängerungen bitten wir um Entschuldigung. </p>
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 18:08 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen zwischen Hannover und Magdeburg <span>(Störung an einem Bahnübergang)</span></h2>
+			<p class="duration">Am heutigen Dienstag, 16. Februar 2021 vsl. bis zum Ende des Tages</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund einer Bahnübergangsstörung zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.<BR />
+<BR />
+Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Aufgrund der Umleitung entfallen die Halte in Peine, Braunschweig Hbf und Helmstedt. Ersatzweise halten die Züge in Wolfsburg Hbf.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig</span></li>
+        <li><span>Die IC-Züge Köln – Dortmund – Hannover – Magdeburg – Leipzig – Dresden fahren auf ihrem geplanten Weg.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Zwischen Hannover und Braunschweig sowie zwischen Braunschweig und Magdeburg verkehren alle zwei Stunden die IC-Züge Köln - Dortmund - Hannover - Leipzig - Dresden sowie Züge des Regionalverkehrs.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis zum Ende des heutigen 16.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 11:02 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Streckensperrung zwischen Rostock und Stralsund <span>(Unfall an einem Bahnübergang)</span></h2>
+			<p class="duration">Vsl. bis einschließlich Sonntag, 21. Februar 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach einem Unfall an einem Bahnübergang in Ribnitz-Damgarten West ist die Strecke zwischen Rostock und Stralsund derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn auf einem Teilabschnitt ihrer Fahrt entfallen.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>Alle Fernverkehrszüge zwischen Hamburg und Ostseebad Binz / Stralsund fallen in beiden Fahrtrichtungen zwischen Rostock Hbf und Stralsund Hbf bzw. Ostseebad Binz aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Aktuell besteht kein Zugverkehr zwischen Rostock und Velgast bzw. Stralsund. Ein stark eingeschränkter Ersatzverkehr mit Bussen ist eingerichtet. Zwischen Stralsund und Ostseebad Binz verkehren die Züge des Regionalverkehrs sowie Züge des Fernverkehrs der Relation Berlin - Stralsund - Ostseebad Binz.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis in die späten Abendstunden am 21.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:19 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zusatzverbindungen der DB Regio SH zwischen Niebüll und Westerland (Sylt) <span>(Fahrplanerweiterung)</span></h2>
+			<p class="duration">ab Montag, 25.01.2021 bis 25.03.2021 </p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Ab dem 25.01.2021, bis 25.03.2021, jeweils Montag bis Freitag, bietet der Sylt Shuttle plus im Auftrag der DB Regio und der NAH.SH zusätzliche Verbindungen zwischen Niebüll und Westerland (Sylt) an. Diese dienen der Entlastung einzelner Regional-Express Züge. </p></div></div>
+			<h3 class="bullet-list-headline">Betrifft die Linie: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>RE6 Hamburg-Altona - Husum - Niebüll - Westerland(Sylt) </span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sie finden die Zusatzverbindungen ab sofort auch in unseren digitalen Reiseauskunftsmedien (bahn.de, DB Navigator sowie DB Streckenagent).<BR />
+<BR />
+Die detaillierten Fahrpläne finden Sie unten im Link.<BR />
+<BR />
+Folgende Zusatzzüge werden angeboten:<BR />
+<BR />
+-	05:16 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 05:51 Uhr<BR />
+-	07:46 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 08:21 Uhr<BR />
+<BR />
+-	06:40 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 07:15 Uhr<BR />
+-	10:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 11:13 Uhr<BR />
+<BR />
+Reguläre Sylt Shuttle plus Züge, die ab dem Montag, 25.01.2021 bis 25.03.2021 für Nahverkehrsreisenden freigegeben sind zwischen Niebüll und Westerland (Sylt):<BR />
+<BR />
+-	06:32 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 07:30 Uhr<BR />
+-       08:02 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 09:00 Uhr<BR />
+<BR />
+-	13:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 14:27 Uhr<BR />
+-	14:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 15:27 Uhr<BR />
+-	16:05 Uhr ab Westerland (Sylt), Ankunft in Niebüll 16:57 Uhr<BR />
+<BR />
+Bitte beachten Sie noch diese Hinweise:<BR />
+-       Je zusätzliche Verbindung stehen ca. 150 bzw. 450 Plätze zur Verfügung.<BR />
+-       Diese Züge verkehren ohne rollstuhlgerechte Einrichtung, und es ist kein behindertengerechtes WC im Zug.<BR />
+<BR />
+Außerdem hält IC 2073 Montag bis Freitag (Westerland (Sylt) ab 15:26 Uhr) zusätzlich in Keitum (15:30 Uhr) und in Klanxbüll (15:44 Uhr).<BR />
+Der Zug ist Montag bis Freitag bis Niebüll für Reisenden des Nahverkehrs freigegeben.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_kiel/fahrplne/mdb_326869_anb-awla_zusatzverbindungen_250121-250321_korrektur.pdf" target="_blank">Zusatzverbindungen Niebüll - Westerland (PDF, 180.78KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte informieren Sie sich vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://www.bahn.de/reiseauskunft" target="_blank">www.bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/buchung/handy-ticket.shtml" target="_blank">DB Navigator</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Schleswig-Holstein auf <a class="arrowlink bold" href="https://twitter.com/DBRegio_SH?lang" target="_blank">Twitter</a>. </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:56 Uhr - DB Regio Nord (TP Kiel)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kurzfristiger Schienenersatzverkehr zwischen Straußfurt und Nordhausen <span>(Ausfall der Züge / Züge werden durch Schienenersatzverkehr ersetzt)</span></h2>
+			<p class="duration">zwischen dem 13. und 28. Februar</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund der Erkrankung mehrerer Mitarbeiter*innen können die Stellwerke auf der Strecke Erfurt – Wolkramshausen, Abschnitt Greußen – Kleinfurra, zwischen dem <B>13. und 17. Februar 2021 nach 15.30 Uhr</B> nicht besetzt werden.<BR />
+<BR />
+Entsprechend verkehren die Züge der DB Regio auf der Linie <B>RE 55/56 Erfurt - Nordhausen auf dem Streckenabschnitt Straußfurt – Nordhausen </B> nach 15.30 Uhr im Schienenersatzverkehr. Die Züge zwischen <B>Erfurt Hauptbahnhof und Straußfurt</B> sind von den Einschränkungen nicht betroffen.<BR />
+<BR />
+An den Wochenenden 20./21. Februar 2021 und 27./28. Februar 2021 verkehrt der Schienenersatzverkehr <B>ganztags</B>.<BR />
+<BR />
+Die Änderungen sind ab 19. Februar 2021 im Online Fahrplan integriert. Die DB arbeitet mit Hochdruck daran, die Besetzung der Stellwerke möglichst schnell wieder vollumfänglich zu gewährleisten.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326851_sev-tabelle_straufurt_-_nordhausen.pdf" target="">Schienenersatzverkehr Straußfurt - Nordhausen und zurück (PDF, 105.87KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 14:44 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">U 28: Entfall Bedienung durch Zug im deutschen Linienabschnitt ab 14.02.2021 <span>(Ausfall der Züge im Abschnitt Sebnitz – Bad Schandau – Schöna)</span></h2>
+			<p class="duration">ab 14. Februar 2021 bis auf weiteres</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sehr geehrte Damen und Herren,<BR />
+<BR />
+auf Grund der Einstufung der Tschechischen Republik als Virusvarianten-Gebiet (im Zusammenhang mit dem Corona-Virus) durch das Auswärtige Amt, Bundesministerium für Gesundheit und Bundesministerium des Inneren wird ab 14.02.2021, 0.00 Uhr bis auf Weiteres kein grenzüberschreitender Eisenbahnpersonenverkehr möglich sein.<BR />
+<BR />
+Auf der Linie <B>U 28 (Děčín – Bad Schandau – Sebnitz – Rumburk)</B> können dadurch keine Züge im Abschnitt:<BR />
+<BR />
+<B>Sebnitz – Bad Schandau – Schöna</B><BR />
+<BR />
+genutzt werden.<BR />
+<BR />
+Es besteht folgendes Ersatzangebot:<BR />
+<BR />
+•	Schienenersatzverkehr im Abschnitt Sebnitz – Bad Schandau und zurück (alternative Reisemöglichkeit mit Regionalbuslinie 260)<BR />
+•	S-Bahn Linie S 1 im Abschnitt Bad Schandau – Schöna<BR />
+•	im grenzüberschreitenden Verkehr besteht kein Ersatzangebot<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326785_aush_fplo_corona_u_28_dseb-dsa_dkh-dpsc_14_02_21-baw.pdf" target="_blank">Schienenersatzverkehr Bad Schandau - Sebnitz // Pendelverkehr Goßdorf-Kohlmühle - Porschdorf (PDF, 696.22KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 12.02.2021 17:01 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0"> Ausfall IRE-Züge Berlin - Hamburg  <span>(betriebliche Gründe)</span></h2>
+			<p class="duration">verlängert bis 31. März 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Die IRE-Züge fallen aus betrieblichen Gründen bis 31. März 2021 aus.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Berlin - Hamburg:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE2 mit Umstieg in Schwerin Hbf in die Züge des RE1. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+<BR />
+<B>Hamburg - Berlin:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE1 mit Umstieg in Schwerin Hbf in die Züge des RE2. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+</p>
+					
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Die aktualisierten Fahrplandaten stehen in den digitalen Auskunftsmedien zur Verfügung.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten, Mund und Nase bedecken! Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.12.2020 11:31 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Aktualisierung -  einige Züge der Linien RE4 und RB66 fahren ab 1. Februar wieder zwischen Szczecin Główny und Löcknitz bzw. Tantow, der Großteil der Züge der Linien RE4 und RB66 fällt weiterhin aus <span>(Zugausfälle aufgrund behördlicher Anordnung )</span></h2>
+			<p class="duration">bis vsl. 28. Februar 2021</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund einer Anordnung der polnischen Behörden im Zusammenhang mit der Covid-19 Pandemie gibt es ab 28. Dezember Einschränkungen im grenzüberschreitenden Zugverkehr zwischen Deutschland und Polen auf den Linien <B>RE4 (Lübeck - Pasewalk - Szczecin)</B> sowie <B>RE/RB66 (Berlin - Angermünde - Szczecin)</B>.<BR />
+<BR />
+<B>Vom 1. Februar bis vsl. 28. Februar 2021 gelten folgende Regelungen:</B><BR />
+<BR />
+Folgende Züge der Linie RE/RB66 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RB 5803 Szczecin Główny ab 19:51 Uhr nach Berlin Gesundbrunnen<BR />
+•	RB 5809 Szczecin Główny ab 10:06 Uhr nach Berlin Gesundbrunnen<BR />
+<BR />
+•	RB 5800 Berlin Gesundbrunnen ab 08:04 Uhr nach Szczecin Główny<BR />
+•	RB 5802 Berlin Gesundbrunnen ab 17:19 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE/RB66 entfallen weiterhin zwischen Szczecin Główny und  Tantow.<BR />
+<BR />
+Folgende Züge der Linie RE4 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RE 5354 Szczecin Główny ab 09:00 Uhr nach Lübeck Hbf<BR />
+•	RE 5362 Szczecin Główny ab 17:00 Uhr nach Lübeck Hbf<BR />
+<BR />
+•	RE 5353 Bützow ab 05:33 Uhr nach Szczecin Główny<BR />
+•	RE 5361 Lübeck Hbf ab 12:02 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE4 entfallen weiterhin zwischen Szczecin Główny und Löcknitz. Zwischen Löcknitz und Grambow ist ein Ersatzverkehr mit einem Großraumtaxi [siehe Fahrplantabelle] eingerichtet.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_nordost/mdb_326671_20210128_ev_mv_re4_wlk_xpsg_01_02-13_02_2021_fpl_m1_suh_k.pdf" target="_blank">Ersatzfahrplan (PDF, 152.70KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft oder vbb.de, in der App DB Navigator oder in der VBB-App Bus&Bahn, in der App DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten und medizinische Maske tragen! An Haltestellen und Bahnhöfen sowie in Fahrzeugen.Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.02.2021 10:23 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Hamburg <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage der S-Bahn Hamburg finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnHamburg" target="_blank">Twitter-Kanal</a>.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.03.2020 16:32 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Information zur Baumaßnahme Trier ↔ Merzig <span>(Verlegung der SEV-Haltestelle)</span></h2>
+			<p class="duration">11.01.2021 - 08.03.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Um einen reibungsloseren Ablauf und die Einhaltung der Fahrzeiten möglich zu machen, werden die Ersatzverkehr-Haltestellen in Saarhölzbach, Wiltingen und Serrig verlegt. </p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Die Haltstelle Saarhölzbach finden Sie ab dem 11.01.21 in der Straße &quot;Im Saartal&quot;. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<B> Die Haltestelle in Serrig finden Sie ab ab sofort in der Martinusstraße. </B><BR />
+<BR />
+<B> Die Haltestelle in Wiltingen(Saar) finden Sie ab sofort an der Ecke Bahnhofstraße / Rosi's Weinstube. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<BR />
+<B> Die Haltestelle am Bahnhof Kreuz Konz finden Sie ab sofort bis zum 08.02.21 auf dem P&R Parkplatz. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_325885_sev_saarhlzbach.pdf" target="_blank">Wegbeschreibung → Saarhölzbach (PDF, 311.81KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326106_schienenersatzverkehr_kreuz_konz.pdf" target="_blank">Wegbescheibung → Kreuz Konz (PDF, 216.93KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326581_sev_wiltingen.pdf" target="">Wegbescheibung → Wiltingen (PDF, 134.27KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Baumaßnahme auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter:<BR />
+<a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+DB Regio AG, Region Mitte </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 09:30 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zugausfälle im grenzüberschreitenden Verkehr nach Frankreich <span>(behördliche Anordnung / Baumaßnahmen)</span></h2>
+			<p class="duration">vsl. bis 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnung im Zusammenhang mit der Covid-19 Pandemie und zusätzlichen Baumaßnahmen bei der SNCF kommt es im grenzüberschreitenden Verkehr von Saarbrücken nach Metz  und von Trier nach Metz zu Zugausfällen.<BR />
+</p></div></div>
+			
+			
+      <ul class="bullet-list">
+        <li><span>RE16 Trier - Perl - Apach - Metz</span></li>
+        <li><span>RE18 Saarbrücken - Forbach - Metz</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Die Züge der Linie RE16 (Sa + So) entfallen zwischen Trier und Metz ersatzlos.<BR />
+<BR />
+Die ausfallenden Züge der Linie RE18 werden zwischen Saarbrücken und Forbach durch Busse ersetzt.<BR />
+Die Ersatzfahrpläne finden Sie in angefügtem Download.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326794_saarbrcken-forbach-metz_ab_01_02_21.pdf" target="_blank">Ersatzverkehr Saarbrücken - Forbach ab 01.02.2021 (PDF, 83.73KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Störung auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter <a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+<BR />
+DB Regio AG, Region Mitte<BR />
+</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 13.02.2021 21:41 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Berlin <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Informationen zur Anpassung der Verkehrsleistung finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/aktuelles/artikel/informationen-zum-coronavirus-covid-19" target="_blank">hier.</a><BR />
+<BR />
+Meldungen über die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/fahren/fahrplanaenderungen/" target="_blank">hier.</a><BR />
+<BR />
+Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnBerlin" target="_blank">Twitterkanal.</a><BR />
+</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 27.03.2020 14:17 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der DB Regio Bayern <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage des Regionalverkehrs in Bayern finden Sie auf den folgenden Seiten:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="/regional/view/regionen/bayern/services/aktuelle_betriebslage.shtml" target="_blank">Meldungen der DB Regio Bayern</a></span></li>
+              
+              <li><span><a href="/s_muenchen/view/fahrplan/betriebslage.shtml" target="_blank">Meldungen der S-Bahn München</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 07.12.2020 09:08 Uhr - DB Regio Bayern (TP Süd)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Stuttgart <span>(Betriebslage)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden Sie auf:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="https://www.s-bahn-stuttgart.de/s-stuttgart/betriebslage-4097192" target="_blank">Betriebslage der S-Bahn Stuttgart</a></span></li>
+              
+              <li><span><a href="https://twitter.com/SBahn_Stuttgart" target="_blank">Twitter</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 20.02.2020 10:57 Uhr - DB Regio Baden-Württemberg (TP Karlsruhe)</p>
+		</footer>
+	</article>
+
+}EndeUpdate
+
+
+2021-02-16T19:22:36.306333800<AnfangUpdate>{
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kulanzregelung nach Wintereinbruch in Deutschland <span>(Fernverkehr)</span></h2>
+			<p class="duration">Bis Donnerstag, 18.02.2021 Tagesende</p>
+		</header>
+		<div class="cont">
+			
+			<h3 class="bullet-list-headline">Kulanzregelung für vom Wintereinbruch betroffene Reisende</h3>
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Gültigkeit der Tickets </B><BR />
+Alle Fahrgäste, die im Zeitraum vom <B>06.02.2021</B> bis <B>11.02.2021</B> ihre Reise aufgrund des Wintereinbruchs verschoben haben, können ihr <B>Ticket für den Fernverkehr</B> bis einschließlich Donnerstag, den 18.02.2021, entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen können kostenfrei umgetauscht werden.<BR />
+<BR />
+Hier finden Sie das entsprechende <a class="arrowlink bold" href="https://www.bahn.de/p/view/home/info/sonderkommunikation-kulanz.shtml" target="_blank">Erstattungsformular</a> für online gebuchte Tickets. Bitte informieren Sie sich nochmals auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml" target="_blank">bahn.de/fahrgastrechte</a></p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a> oder im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a>.</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 04:50 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen im Fernverkehr von/nach Tschechien und Österreich/Italien <span>(Behördliche Anordnung)</span></h2>
+			<p class="duration">bis vsl. Sonntag, den 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnungen kommt es zu Einschränkungen im Fernverkehr von/nach Tschechien und Österreich/Italien.</p></div></div>
+			<h3 class="bullet-list-headline">Folgende Verbindungen sind betroffen: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>EC/RJ-Züge (Budapest –) Prag – Dresden – Berlin – Hamburg (– Kiel) fallen auf dem gesamten Laufweg aus.</span></li>
+        <li><span>EC-Züge Verona – Innsbruck – Kufstein – München fallen auf dem gesamten Laufweg aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Wir empfehlen Ihnen, geplante Reisen mit diesen Verbindungen im besagten Zeitraum zu verschieben. Es muss davon ausgegangen werden, dass die behördlichen Anordnungen ggf. über den 21.02.2021 hinaus verlängert werden.<BR />
+<BR />
+Informationen zur Erstattung von Fahrkarten der Deutschen Bahn finden Sie in einer separaten Meldung auf dieser Seite.<BR />
+<BR />
+Bitte nutzen Sie für Reisen zwischen Hamburg, Berlin und Dresden die verbleibenden Fernzüge der Deutschen Bahn. Einzelne ICE-Züge halten zwischen Hamburg und Berlin zusätzlich in Büchen, Ludwigslust und Wittenberge.<BR />
+</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 14:51 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Schnee und Frost: Regionalverkehr der Deutschen Bahn normalisiert sich in Niedersachsen und Bremen <span>(Wintereinbruch)</span></h2>
+			<p class="duration">bis mindestens Mittwoch, den 17. Februar 2021, Tagesende</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach dem Wintereinbruch in der vergangenen Woche stabilisiert sich der Regionalverkehr der Deutschen Bahn in Niedersachsen und Bremen zunehmend. Es kann weiterhin vereinzelt zu witterungsbedingten Fahrzeug- und Weichenstörungen kommen. Durch die schlechten Straßenverhältnissen, kann ein Busnotverkehr nicht garantiert werden.<BR />
+<BR />
+Wir rechnen zum jetzigen Zeitpunkt (16. Februar, 18:00 Uhr) damit, dass am Mittwoch, 17.02.2021, zum Tagesende die Einschränkungen weitestgehend aufgehoben werden. Näheres entnehmen Sie bitte der aufgeführten Liste.<BR />
+</p></div></div>
+			<h3 class="bullet-list-headline">Es liegen derzeit folgende witterungsbedingte Einschränkungen vor:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>S5 Hannover (Flughafen) - Hameln - Paderborn:<BR />
+Es verkehren bis Dienstag, 16.02.2021, Tagesende, nur die S-Bahnen von und nach Paderborn Hbf (Stundentakt)</span></li>
+        <li><span>S51 Expresslinie Seelze - Hannover Hbf - Hameln:<BR />
+Der Betrieb ist bis Dienstag, 16.02.21, Tagesende eingestellt.</span></li>
+        <li><span>S6  Celle - Burgdorf - Hannover Hbf:<BR />
+Der Betrieb ist bis Mittwoch, 17.02.21, Tagesende eingestellt.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Bitte geben Sie acht auf vereiste und glatte Bahnsteige. Durch gesperrte Bahnsteige kann es außerdem zu Haltausfällen kommen.<BR />
+<BR />
+Witterungsbedingt ist die Spaltüberbrückung der S-Bahn teilweise ausgeschaltet. Es kann zwischen Bahnsteig und Fahrzeugeinstieg zu einer Spalte kommen. Bitte seien Sie umsichtig beim Ein- und Ausstieg.<BR />
+<BR />
+Wir werden Sie auf dieser Seite auf dem Laufenden halten. Die nächste Aktualisierung erfolgt, sobald uns neue Informationen vorliegen.<BR />
+<BR />
+Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://reiseauskunft.bahn.de">bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator-App</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Niedersachsen auf <a class="arrowlink bold" href="https://twitter.com/dbregio_NDS">Twitter</a>.<BR />
+<BR />
+Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml">bahn.de/fahrgastrechte</a>.<BR />
+<BR />
+Für die entstehenden Unannehmlichkeiten und Reisezeitverlängerungen bitten wir um Entschuldigung. </p>
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 18:08 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen zwischen Hannover und Magdeburg <span>(Störung an einem Bahnübergang)</span></h2>
+			<p class="duration">Am heutigen Dienstag, 16. Februar 2021 vsl. bis zum Ende des Tages</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund einer Bahnübergangsstörung zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.<BR />
+<BR />
+Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Aufgrund der Umleitung entfallen die Halte in Peine, Braunschweig Hbf und Helmstedt. Ersatzweise halten die Züge in Wolfsburg Hbf.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig</span></li>
+        <li><span>Die IC-Züge Köln – Dortmund – Hannover – Magdeburg – Leipzig – Dresden fahren auf ihrem geplanten Weg.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Zwischen Hannover und Braunschweig sowie zwischen Braunschweig und Magdeburg verkehren alle zwei Stunden die IC-Züge Köln - Dortmund - Hannover - Leipzig - Dresden sowie Züge des Regionalverkehrs.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis zum Ende des heutigen 16.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 11:02 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Streckensperrung zwischen Rostock und Stralsund <span>(Unfall an einem Bahnübergang)</span></h2>
+			<p class="duration">Vsl. bis einschließlich Sonntag, 21. Februar 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach einem Unfall an einem Bahnübergang in Ribnitz-Damgarten West ist die Strecke zwischen Rostock und Stralsund derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn auf einem Teilabschnitt ihrer Fahrt entfallen.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>Alle Fernverkehrszüge zwischen Hamburg und Ostseebad Binz / Stralsund fallen in beiden Fahrtrichtungen zwischen Rostock Hbf und Stralsund Hbf bzw. Ostseebad Binz aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Aktuell besteht kein Zugverkehr zwischen Rostock und Velgast bzw. Stralsund. Ein stark eingeschränkter Ersatzverkehr mit Bussen ist eingerichtet. Zwischen Stralsund und Ostseebad Binz verkehren die Züge des Regionalverkehrs sowie Züge des Fernverkehrs der Relation Berlin - Stralsund - Ostseebad Binz.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis in die späten Abendstunden am 21.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:19 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zusatzverbindungen der DB Regio SH zwischen Niebüll und Westerland (Sylt) <span>(Fahrplanerweiterung)</span></h2>
+			<p class="duration">ab Montag, 25.01.2021 bis 25.03.2021 </p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Ab dem 25.01.2021, bis 25.03.2021, jeweils Montag bis Freitag, bietet der Sylt Shuttle plus im Auftrag der DB Regio und der NAH.SH zusätzliche Verbindungen zwischen Niebüll und Westerland (Sylt) an. Diese dienen der Entlastung einzelner Regional-Express Züge. </p></div></div>
+			<h3 class="bullet-list-headline">Betrifft die Linie: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>RE6 Hamburg-Altona - Husum - Niebüll - Westerland(Sylt) </span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sie finden die Zusatzverbindungen ab sofort auch in unseren digitalen Reiseauskunftsmedien (bahn.de, DB Navigator sowie DB Streckenagent).<BR />
+<BR />
+Die detaillierten Fahrpläne finden Sie unten im Link.<BR />
+<BR />
+Folgende Zusatzzüge werden angeboten:<BR />
+<BR />
+-	05:16 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 05:51 Uhr<BR />
+-	07:46 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 08:21 Uhr<BR />
+<BR />
+-	06:40 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 07:15 Uhr<BR />
+-	10:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 11:13 Uhr<BR />
+<BR />
+Reguläre Sylt Shuttle plus Züge, die ab dem Montag, 25.01.2021 bis 25.03.2021 für Nahverkehrsreisenden freigegeben sind zwischen Niebüll und Westerland (Sylt):<BR />
+<BR />
+-	06:32 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 07:30 Uhr<BR />
+-       08:02 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 09:00 Uhr<BR />
+<BR />
+-	13:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 14:27 Uhr<BR />
+-	14:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 15:27 Uhr<BR />
+-	16:05 Uhr ab Westerland (Sylt), Ankunft in Niebüll 16:57 Uhr<BR />
+<BR />
+Bitte beachten Sie noch diese Hinweise:<BR />
+-       Je zusätzliche Verbindung stehen ca. 150 bzw. 450 Plätze zur Verfügung.<BR />
+-       Diese Züge verkehren ohne rollstuhlgerechte Einrichtung, und es ist kein behindertengerechtes WC im Zug.<BR />
+<BR />
+Außerdem hält IC 2073 Montag bis Freitag (Westerland (Sylt) ab 15:26 Uhr) zusätzlich in Keitum (15:30 Uhr) und in Klanxbüll (15:44 Uhr).<BR />
+Der Zug ist Montag bis Freitag bis Niebüll für Reisenden des Nahverkehrs freigegeben.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_kiel/fahrplne/mdb_326869_anb-awla_zusatzverbindungen_250121-250321_korrektur.pdf" target="_blank">Zusatzverbindungen Niebüll - Westerland (PDF, 180.78KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte informieren Sie sich vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://www.bahn.de/reiseauskunft" target="_blank">www.bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/buchung/handy-ticket.shtml" target="_blank">DB Navigator</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Schleswig-Holstein auf <a class="arrowlink bold" href="https://twitter.com/DBRegio_SH?lang" target="_blank">Twitter</a>. </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:56 Uhr - DB Regio Nord (TP Kiel)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kurzfristiger Schienenersatzverkehr zwischen Straußfurt und Nordhausen <span>(Ausfall der Züge / Züge werden durch Schienenersatzverkehr ersetzt)</span></h2>
+			<p class="duration">zwischen dem 13. und 28. Februar</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund der Erkrankung mehrerer Mitarbeiter*innen können die Stellwerke auf der Strecke Erfurt – Wolkramshausen, Abschnitt Greußen – Kleinfurra, zwischen dem <B>13. und 17. Februar 2021 nach 15.30 Uhr</B> nicht besetzt werden.<BR />
+<BR />
+Entsprechend verkehren die Züge der DB Regio auf der Linie <B>RE 55/56 Erfurt - Nordhausen auf dem Streckenabschnitt Straußfurt – Nordhausen </B> nach 15.30 Uhr im Schienenersatzverkehr. Die Züge zwischen <B>Erfurt Hauptbahnhof und Straußfurt</B> sind von den Einschränkungen nicht betroffen.<BR />
+<BR />
+An den Wochenenden 20./21. Februar 2021 und 27./28. Februar 2021 verkehrt der Schienenersatzverkehr <B>ganztags</B>.<BR />
+<BR />
+Die Änderungen sind ab 19. Februar 2021 im Online Fahrplan integriert. Die DB arbeitet mit Hochdruck daran, die Besetzung der Stellwerke möglichst schnell wieder vollumfänglich zu gewährleisten.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326851_sev-tabelle_straufurt_-_nordhausen.pdf" target="">Schienenersatzverkehr Straußfurt - Nordhausen und zurück (PDF, 105.87KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 14:44 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">U 28: Entfall Bedienung durch Zug im deutschen Linienabschnitt ab 14.02.2021 <span>(Ausfall der Züge im Abschnitt Sebnitz – Bad Schandau – Schöna)</span></h2>
+			<p class="duration">ab 14. Februar 2021 bis auf weiteres</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sehr geehrte Damen und Herren,<BR />
+<BR />
+auf Grund der Einstufung der Tschechischen Republik als Virusvarianten-Gebiet (im Zusammenhang mit dem Corona-Virus) durch das Auswärtige Amt, Bundesministerium für Gesundheit und Bundesministerium des Inneren wird ab 14.02.2021, 0.00 Uhr bis auf Weiteres kein grenzüberschreitender Eisenbahnpersonenverkehr möglich sein.<BR />
+<BR />
+Auf der Linie <B>U 28 (Děčín – Bad Schandau – Sebnitz – Rumburk)</B> können dadurch keine Züge im Abschnitt:<BR />
+<BR />
+<B>Sebnitz – Bad Schandau – Schöna</B><BR />
+<BR />
+genutzt werden.<BR />
+<BR />
+Es besteht folgendes Ersatzangebot:<BR />
+<BR />
+•	Schienenersatzverkehr im Abschnitt Sebnitz – Bad Schandau und zurück (alternative Reisemöglichkeit mit Regionalbuslinie 260)<BR />
+•	S-Bahn Linie S 1 im Abschnitt Bad Schandau – Schöna<BR />
+•	im grenzüberschreitenden Verkehr besteht kein Ersatzangebot<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326785_aush_fplo_corona_u_28_dseb-dsa_dkh-dpsc_14_02_21-baw.pdf" target="_blank">Schienenersatzverkehr Bad Schandau - Sebnitz // Pendelverkehr Goßdorf-Kohlmühle - Porschdorf (PDF, 696.22KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 12.02.2021 17:01 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0"> Ausfall IRE-Züge Berlin - Hamburg  <span>(betriebliche Gründe)</span></h2>
+			<p class="duration">verlängert bis 31. März 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Die IRE-Züge fallen aus betrieblichen Gründen bis 31. März 2021 aus.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Berlin - Hamburg:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE2 mit Umstieg in Schwerin Hbf in die Züge des RE1. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+<BR />
+<B>Hamburg - Berlin:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE1 mit Umstieg in Schwerin Hbf in die Züge des RE2. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+</p>
+					
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Die aktualisierten Fahrplandaten stehen in den digitalen Auskunftsmedien zur Verfügung.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten, Mund und Nase bedecken! Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.12.2020 11:31 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Aktualisierung -  einige Züge der Linien RE4 und RB66 fahren ab 1. Februar wieder zwischen Szczecin Główny und Löcknitz bzw. Tantow, der Großteil der Züge der Linien RE4 und RB66 fällt weiterhin aus <span>(Zugausfälle aufgrund behördlicher Anordnung )</span></h2>
+			<p class="duration">bis vsl. 28. Februar 2021</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund einer Anordnung der polnischen Behörden im Zusammenhang mit der Covid-19 Pandemie gibt es ab 28. Dezember Einschränkungen im grenzüberschreitenden Zugverkehr zwischen Deutschland und Polen auf den Linien <B>RE4 (Lübeck - Pasewalk - Szczecin)</B> sowie <B>RE/RB66 (Berlin - Angermünde - Szczecin)</B>.<BR />
+<BR />
+<B>Vom 1. Februar bis vsl. 28. Februar 2021 gelten folgende Regelungen:</B><BR />
+<BR />
+Folgende Züge der Linie RE/RB66 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RB 5803 Szczecin Główny ab 19:51 Uhr nach Berlin Gesundbrunnen<BR />
+•	RB 5809 Szczecin Główny ab 10:06 Uhr nach Berlin Gesundbrunnen<BR />
+<BR />
+•	RB 5800 Berlin Gesundbrunnen ab 08:04 Uhr nach Szczecin Główny<BR />
+•	RB 5802 Berlin Gesundbrunnen ab 17:19 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE/RB66 entfallen weiterhin zwischen Szczecin Główny und  Tantow.<BR />
+<BR />
+Folgende Züge der Linie RE4 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RE 5354 Szczecin Główny ab 09:00 Uhr nach Lübeck Hbf<BR />
+•	RE 5362 Szczecin Główny ab 17:00 Uhr nach Lübeck Hbf<BR />
+<BR />
+•	RE 5353 Bützow ab 05:33 Uhr nach Szczecin Główny<BR />
+•	RE 5361 Lübeck Hbf ab 12:02 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE4 entfallen weiterhin zwischen Szczecin Główny und Löcknitz. Zwischen Löcknitz und Grambow ist ein Ersatzverkehr mit einem Großraumtaxi [siehe Fahrplantabelle] eingerichtet.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_nordost/mdb_326671_20210128_ev_mv_re4_wlk_xpsg_01_02-13_02_2021_fpl_m1_suh_k.pdf" target="_blank">Ersatzfahrplan (PDF, 152.70KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft oder vbb.de, in der App DB Navigator oder in der VBB-App Bus&Bahn, in der App DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten und medizinische Maske tragen! An Haltestellen und Bahnhöfen sowie in Fahrzeugen.Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.02.2021 10:23 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Hamburg <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage der S-Bahn Hamburg finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnHamburg" target="_blank">Twitter-Kanal</a>.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.03.2020 16:32 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Information zur Baumaßnahme Trier ↔ Merzig <span>(Verlegung der SEV-Haltestelle)</span></h2>
+			<p class="duration">11.01.2021 - 08.03.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Um einen reibungsloseren Ablauf und die Einhaltung der Fahrzeiten möglich zu machen, werden die Ersatzverkehr-Haltestellen in Saarhölzbach, Wiltingen und Serrig verlegt. </p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Die Haltstelle Saarhölzbach finden Sie ab dem 11.01.21 in der Straße &quot;Im Saartal&quot;. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<B> Die Haltestelle in Serrig finden Sie ab ab sofort in der Martinusstraße. </B><BR />
+<BR />
+<B> Die Haltestelle in Wiltingen(Saar) finden Sie ab sofort an der Ecke Bahnhofstraße / Rosi's Weinstube. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<BR />
+<B> Die Haltestelle am Bahnhof Kreuz Konz finden Sie ab sofort bis zum 08.02.21 auf dem P&R Parkplatz. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_325885_sev_saarhlzbach.pdf" target="_blank">Wegbeschreibung → Saarhölzbach (PDF, 311.81KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326106_schienenersatzverkehr_kreuz_konz.pdf" target="_blank">Wegbescheibung → Kreuz Konz (PDF, 216.93KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326581_sev_wiltingen.pdf" target="">Wegbescheibung → Wiltingen (PDF, 134.27KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Baumaßnahme auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter:<BR />
+<a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+DB Regio AG, Region Mitte </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 09:30 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zugausfälle im grenzüberschreitenden Verkehr nach Frankreich <span>(behördliche Anordnung / Baumaßnahmen)</span></h2>
+			<p class="duration">vsl. bis 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnung im Zusammenhang mit der Covid-19 Pandemie und zusätzlichen Baumaßnahmen bei der SNCF kommt es im grenzüberschreitenden Verkehr von Saarbrücken nach Metz  und von Trier nach Metz zu Zugausfällen.<BR />
+</p></div></div>
+			
+			
+      <ul class="bullet-list">
+        <li><span>RE16 Trier - Perl - Apach - Metz</span></li>
+        <li><span>RE18 Saarbrücken - Forbach - Metz</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Die Züge der Linie RE16 (Sa + So) entfallen zwischen Trier und Metz ersatzlos.<BR />
+<BR />
+Die ausfallenden Züge der Linie RE18 werden zwischen Saarbrücken und Forbach durch Busse ersetzt.<BR />
+Die Ersatzfahrpläne finden Sie in angefügtem Download.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326794_saarbrcken-forbach-metz_ab_01_02_21.pdf" target="_blank">Ersatzverkehr Saarbrücken - Forbach ab 01.02.2021 (PDF, 83.73KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Störung auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter <a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+<BR />
+DB Regio AG, Region Mitte<BR />
+</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 13.02.2021 21:41 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Berlin <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Informationen zur Anpassung der Verkehrsleistung finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/aktuelles/artikel/informationen-zum-coronavirus-covid-19" target="_blank">hier.</a><BR />
+<BR />
+Meldungen über die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/fahren/fahrplanaenderungen/" target="_blank">hier.</a><BR />
+<BR />
+Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnBerlin" target="_blank">Twitterkanal.</a><BR />
+</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 27.03.2020 14:17 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der DB Regio Bayern <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage des Regionalverkehrs in Bayern finden Sie auf den folgenden Seiten:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="/regional/view/regionen/bayern/services/aktuelle_betriebslage.shtml" target="_blank">Meldungen der DB Regio Bayern</a></span></li>
+              
+              <li><span><a href="/s_muenchen/view/fahrplan/betriebslage.shtml" target="_blank">Meldungen der S-Bahn München</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 07.12.2020 09:08 Uhr - DB Regio Bayern (TP Süd)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Stuttgart <span>(Betriebslage)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden Sie auf:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="https://www.s-bahn-stuttgart.de/s-stuttgart/betriebslage-4097192" target="_blank">Betriebslage der S-Bahn Stuttgart</a></span></li>
+              
+              <li><span><a href="https://twitter.com/SBahn_Stuttgart" target="_blank">Twitter</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 20.02.2020 10:57 Uhr - DB Regio Baden-Württemberg (TP Karlsruhe)</p>
+		</footer>
+	</article>
+
+}<EndeUpdate>
+
+
+2021-02-16T19:35:56.613934500<AnfangUpdate>{
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kulanzregelung nach Wintereinbruch in Deutschland <span>(Fernverkehr)</span></h2>
+			<p class="duration">Bis Donnerstag, 18.02.2021 Tagesende</p>
+		</header>
+		<div class="cont">
+			
+			<h3 class="bullet-list-headline">Kulanzregelung für vom Wintereinbruch betroffene Reisende</h3>
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Gültigkeit der Tickets </B><BR />
+Alle Fahrgäste, die im Zeitraum vom <B>06.02.2021</B> bis <B>11.02.2021</B> ihre Reise aufgrund des Wintereinbruchs verschoben haben, können ihr <B>Ticket für den Fernverkehr</B> bis einschließlich Donnerstag, den 18.02.2021, entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen können kostenfrei umgetauscht werden.<BR />
+<BR />
+Hier finden Sie das entsprechende <a class="arrowlink bold" href="https://www.bahn.de/p/view/home/info/sonderkommunikation-kulanz.shtml" target="_blank">Erstattungsformular</a> für online gebuchte Tickets. Bitte informieren Sie sich nochmals auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml" target="_blank">bahn.de/fahrgastrechte</a></p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a> oder im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a>.</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 04:50 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen im Fernverkehr von/nach Tschechien und Österreich/Italien <span>(Behördliche Anordnung)</span></h2>
+			<p class="duration">bis vsl. Sonntag, den 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnungen kommt es zu Einschränkungen im Fernverkehr von/nach Tschechien und Österreich/Italien.</p></div></div>
+			<h3 class="bullet-list-headline">Folgende Verbindungen sind betroffen: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>EC/RJ-Züge (Budapest –) Prag – Dresden – Berlin – Hamburg (– Kiel) fallen auf dem gesamten Laufweg aus.</span></li>
+        <li><span>EC-Züge Verona – Innsbruck – Kufstein – München fallen auf dem gesamten Laufweg aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Wir empfehlen Ihnen, geplante Reisen mit diesen Verbindungen im besagten Zeitraum zu verschieben. Es muss davon ausgegangen werden, dass die behördlichen Anordnungen ggf. über den 21.02.2021 hinaus verlängert werden.<BR />
+<BR />
+Informationen zur Erstattung von Fahrkarten der Deutschen Bahn finden Sie in einer separaten Meldung auf dieser Seite.<BR />
+<BR />
+Bitte nutzen Sie für Reisen zwischen Hamburg, Berlin und Dresden die verbleibenden Fernzüge der Deutschen Bahn. Einzelne ICE-Züge halten zwischen Hamburg und Berlin zusätzlich in Büchen, Ludwigslust und Wittenberge.<BR />
+</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 14:51 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Schnee und Frost: Regionalverkehr der Deutschen Bahn normalisiert sich in Niedersachsen und Bremen <span>(Wintereinbruch)</span></h2>
+			<p class="duration">bis mindestens Mittwoch, den 17. Februar 2021, Tagesende</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach dem Wintereinbruch in der vergangenen Woche stabilisiert sich der Regionalverkehr der Deutschen Bahn in Niedersachsen und Bremen zunehmend. Es kann weiterhin vereinzelt zu witterungsbedingten Fahrzeug- und Weichenstörungen kommen. Durch die schlechten Straßenverhältnissen, kann ein Busnotverkehr nicht garantiert werden.<BR />
+<BR />
+Wir rechnen zum jetzigen Zeitpunkt (16. Februar, 18:00 Uhr) damit, dass am Mittwoch, 17.02.2021, zum Tagesende die Einschränkungen weitestgehend aufgehoben werden. Näheres entnehmen Sie bitte der aufgeführten Liste.<BR />
+</p></div></div>
+			<h3 class="bullet-list-headline">Es liegen derzeit folgende witterungsbedingte Einschränkungen vor:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>S5 Hannover (Flughafen) - Hameln - Paderborn:<BR />
+Es verkehren bis Dienstag, 16.02.2021, Tagesende, nur die S-Bahnen von und nach Paderborn Hbf (Stundentakt)</span></li>
+        <li><span>S51 Expresslinie Seelze - Hannover Hbf - Hameln:<BR />
+Der Betrieb ist bis Dienstag, 16.02.21, Tagesende eingestellt.</span></li>
+        <li><span>S6  Celle - Burgdorf - Hannover Hbf:<BR />
+Der Betrieb ist bis Mittwoch, 17.02.21, Tagesende eingestellt.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Bitte geben Sie acht auf vereiste und glatte Bahnsteige. Durch gesperrte Bahnsteige kann es außerdem zu Haltausfällen kommen.<BR />
+<BR />
+Witterungsbedingt ist die Spaltüberbrückung der S-Bahn teilweise ausgeschaltet. Es kann zwischen Bahnsteig und Fahrzeugeinstieg zu einer Spalte kommen. Bitte seien Sie umsichtig beim Ein- und Ausstieg.<BR />
+<BR />
+Wir werden Sie auf dieser Seite auf dem Laufenden halten. Die nächste Aktualisierung erfolgt, sobald uns neue Informationen vorliegen.<BR />
+<BR />
+Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://reiseauskunft.bahn.de">bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06">DB Navigator-App</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Niedersachsen auf <a class="arrowlink bold" href="https://twitter.com/dbregio_NDS">Twitter</a>.<BR />
+<BR />
+Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml">bahn.de/fahrgastrechte</a>.<BR />
+<BR />
+Für die entstehenden Unannehmlichkeiten und Reisezeitverlängerungen bitten wir um Entschuldigung. </p>
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 18:08 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Beeinträchtigungen zwischen Hannover und Magdeburg <span>(Störung an einem Bahnübergang)</span></h2>
+			<p class="duration">Am heutigen Dienstag, 16. Februar 2021 vsl. bis zum Ende des Tages</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund einer Bahnübergangsstörung zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.<BR />
+<BR />
+Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Aufgrund der Umleitung entfallen die Halte in Peine, Braunschweig Hbf und Helmstedt. Ersatzweise halten die Züge in Wolfsburg Hbf.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig</span></li>
+        <li><span>Die IC-Züge Köln – Dortmund – Hannover – Magdeburg – Leipzig – Dresden fahren auf ihrem geplanten Weg.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Zwischen Hannover und Braunschweig sowie zwischen Braunschweig und Magdeburg verkehren alle zwei Stunden die IC-Züge Köln - Dortmund - Hannover - Leipzig - Dresden sowie Züge des Regionalverkehrs.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis zum Ende des heutigen 16.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 11:02 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Streckensperrung zwischen Rostock und Stralsund <span>(Unfall an einem Bahnübergang)</span></h2>
+			<p class="duration">Vsl. bis einschließlich Sonntag, 21. Februar 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Nach einem Unfall an einem Bahnübergang in Ribnitz-Damgarten West ist die Strecke zwischen Rostock und Stralsund derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn auf einem Teilabschnitt ihrer Fahrt entfallen.</p></div></div>
+			<h3 class="bullet-list-headline">Betroffen sind folgende Verbindungen im Fernverkehr:</h3>
+			
+      <ul class="bullet-list">
+        <li><span>Alle Fernverkehrszüge zwischen Hamburg und Ostseebad Binz / Stralsund fallen in beiden Fahrtrichtungen zwischen Rostock Hbf und Stralsund Hbf bzw. Ostseebad Binz aus.</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Wir empfehlen Ihnen folgende Reisealternativen:</B> Aktuell besteht kein Zugverkehr zwischen Rostock und Velgast bzw. Stralsund. Ein stark eingeschränkter Ersatzverkehr mit Bussen ist eingerichtet. Zwischen Stralsund und Ostseebad Binz verkehren die Züge des Regionalverkehrs sowie Züge des Fernverkehrs der Relation Berlin - Stralsund - Ostseebad Binz.<BR />
+<BR />
+Die Behebung der Störung soll vsl. bis in die späten Abendstunden am 21.02.2021 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>
+					
+					<p class="nachtext">Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf <a class="arrowlink bold" href="https://reiseauskunft.bahn.de/" target="_blank">www.bahn.de/reiseauskunft</a>, im <a class="arrowlink bold" href="https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06" target="_blank">DB Navigator</a> oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf).</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:19 Uhr - DB Fernverkehr AG</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zusatzverbindungen der DB Regio SH zwischen Niebüll und Westerland (Sylt) <span>(Fahrplanerweiterung)</span></h2>
+			<p class="duration">ab Montag, 25.01.2021 bis 25.03.2021 </p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Ab dem 25.01.2021, bis 25.03.2021, jeweils Montag bis Freitag, bietet der Sylt Shuttle plus im Auftrag der DB Regio und der NAH.SH zusätzliche Verbindungen zwischen Niebüll und Westerland (Sylt) an. Diese dienen der Entlastung einzelner Regional-Express Züge. </p></div></div>
+			<h3 class="bullet-list-headline">Betrifft die Linie: </h3>
+			
+      <ul class="bullet-list">
+        <li><span>RE6 Hamburg-Altona - Husum - Niebüll - Westerland(Sylt) </span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sie finden die Zusatzverbindungen ab sofort auch in unseren digitalen Reiseauskunftsmedien (bahn.de, DB Navigator sowie DB Streckenagent).<BR />
+<BR />
+Die detaillierten Fahrpläne finden Sie unten im Link.<BR />
+<BR />
+Folgende Zusatzzüge werden angeboten:<BR />
+<BR />
+-	05:16 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 05:51 Uhr<BR />
+-	07:46 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 08:21 Uhr<BR />
+<BR />
+-	06:40 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 07:15 Uhr<BR />
+-	10:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll um 11:13 Uhr<BR />
+<BR />
+Reguläre Sylt Shuttle plus Züge, die ab dem Montag, 25.01.2021 bis 25.03.2021 für Nahverkehrsreisenden freigegeben sind zwischen Niebüll und Westerland (Sylt):<BR />
+<BR />
+-	06:32 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 07:30 Uhr<BR />
+-       08:02 Uhr ab Niebüll, Ankunft in Westerland (Sylt) um 09:00 Uhr<BR />
+<BR />
+-	13:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 14:27 Uhr<BR />
+-	14:35 Uhr ab Westerland (Sylt), Ankunft in Niebüll 15:27 Uhr<BR />
+-	16:05 Uhr ab Westerland (Sylt), Ankunft in Niebüll 16:57 Uhr<BR />
+<BR />
+Bitte beachten Sie noch diese Hinweise:<BR />
+-       Je zusätzliche Verbindung stehen ca. 150 bzw. 450 Plätze zur Verfügung.<BR />
+-       Diese Züge verkehren ohne rollstuhlgerechte Einrichtung, und es ist kein behindertengerechtes WC im Zug.<BR />
+<BR />
+Außerdem hält IC 2073 Montag bis Freitag (Westerland (Sylt) ab 15:26 Uhr) zusätzlich in Keitum (15:30 Uhr) und in Klanxbüll (15:44 Uhr).<BR />
+Der Zug ist Montag bis Freitag bis Niebüll für Reisenden des Nahverkehrs freigegeben.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_kiel/fahrplne/mdb_326869_anb-awla_zusatzverbindungen_250121-250321_korrektur.pdf" target="_blank">Zusatzverbindungen Niebüll - Westerland (PDF, 180.78KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte informieren Sie sich vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter <a class="arrowlink bold" href="https://www.bahn.de/reiseauskunft" target="_blank">www.bahn.de/reiseauskunft</a>, in der <a class="arrowlink bold" href="https://www.bahn.de/p/view/service/buchung/handy-ticket.shtml" target="_blank">DB Navigator</a> oder beim regionalen Kundendialog unter 0180/6996633 (20 ct/Anruf, bei Mobilfunk max. 60 ct/Anruf).<BR />
+<BR />
+Folgen Sie auch der DB Regio Schleswig-Holstein auf <a class="arrowlink bold" href="https://twitter.com/DBRegio_SH?lang" target="_blank">Twitter</a>. </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 15:56 Uhr - DB Regio Nord (TP Kiel)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Kurzfristiger Schienenersatzverkehr zwischen Straußfurt und Nordhausen <span>(Ausfall der Züge / Züge werden durch Schienenersatzverkehr ersetzt)</span></h2>
+			<p class="duration">zwischen dem 13. und 28. Februar</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund der Erkrankung mehrerer Mitarbeiter*innen können die Stellwerke auf der Strecke Erfurt – Wolkramshausen, Abschnitt Greußen – Kleinfurra, zwischen dem <B>13. und 17. Februar 2021 nach 15.30 Uhr</B> nicht besetzt werden.<BR />
+<BR />
+Entsprechend verkehren die Züge der DB Regio auf der Linie <B>RE 55/56 Erfurt - Nordhausen auf dem Streckenabschnitt Straußfurt – Nordhausen </B> nach 15.30 Uhr im Schienenersatzverkehr. Die Züge zwischen <B>Erfurt Hauptbahnhof und Straußfurt</B> sind von den Einschränkungen nicht betroffen.<BR />
+<BR />
+An den Wochenenden 20./21. Februar 2021 und 27./28. Februar 2021 verkehrt der Schienenersatzverkehr <B>ganztags</B>.<BR />
+<BR />
+Die Änderungen sind ab 19. Februar 2021 im Online Fahrplan integriert. Die DB arbeitet mit Hochdruck daran, die Besetzung der Stellwerke möglichst schnell wieder vollumfänglich zu gewährleisten.<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326851_sev-tabelle_straufurt_-_nordhausen.pdf" target="">Schienenersatzverkehr Straußfurt - Nordhausen und zurück (PDF, 105.87KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 16.02.2021 14:44 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">U 28: Entfall Bedienung durch Zug im deutschen Linienabschnitt ab 14.02.2021 <span>(Ausfall der Züge im Abschnitt Sebnitz – Bad Schandau – Schöna)</span></h2>
+			<p class="duration">ab 14. Februar 2021 bis auf weiteres</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Sehr geehrte Damen und Herren,<BR />
+<BR />
+auf Grund der Einstufung der Tschechischen Republik als Virusvarianten-Gebiet (im Zusammenhang mit dem Corona-Virus) durch das Auswärtige Amt, Bundesministerium für Gesundheit und Bundesministerium des Inneren wird ab 14.02.2021, 0.00 Uhr bis auf Weiteres kein grenzüberschreitender Eisenbahnpersonenverkehr möglich sein.<BR />
+<BR />
+Auf der Linie <B>U 28 (Děčín – Bad Schandau – Sebnitz – Rumburk)</B> können dadurch keine Züge im Abschnitt:<BR />
+<BR />
+<B>Sebnitz – Bad Schandau – Schöna</B><BR />
+<BR />
+genutzt werden.<BR />
+<BR />
+Es besteht folgendes Ersatzangebot:<BR />
+<BR />
+•	Schienenersatzverkehr im Abschnitt Sebnitz – Bad Schandau und zurück (alternative Reisemöglichkeit mit Regionalbuslinie 260)<BR />
+•	S-Bahn Linie S 1 im Abschnitt Bad Schandau – Schöna<BR />
+•	im grenzüberschreitenden Verkehr besteht kein Ersatzangebot<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedost/mdb_326785_aush_fplo_corona_u_28_dseb-dsa_dkh-dpsc_14_02_21-baw.pdf" target="_blank">Schienenersatzverkehr Bad Schandau - Sebnitz // Pendelverkehr Goßdorf-Kohlmühle - Porschdorf (PDF, 696.22KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 12.02.2021 17:01 Uhr - DB Regio Südost</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0"> Ausfall IRE-Züge Berlin - Hamburg  <span>(betriebliche Gründe)</span></h2>
+			<p class="duration">verlängert bis 31. März 2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Die IRE-Züge fallen aus betrieblichen Gründen bis 31. März 2021 aus.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B>Berlin - Hamburg:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE2 mit Umstieg in Schwerin Hbf in die Züge des RE1. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+<BR />
+<B>Hamburg - Berlin:</B><BR />
+Reisende mit Nahverkehrstickets nutzen bitte die Umfahrung mit den Zügen des RE1 mit Umstieg in Schwerin Hbf in die Züge des RE2. Beachten Sie bitte, dass das IRE-Berlin-Hamburg-Ticket und das IRE Berlin-Hamburg Spezial-Ticket in diesen Zügen und in Fernverkehrszügen nicht gültig ist. Reisende mit diesen Tickets können diese entweder zur Erstattung einreichen oder kaufen sich bitte zur Weiterfahrt eine neue Fahrkarte und reichen die neue Fahrkarte im Rahmen der Fahrgastrechte zur Erstattung ein.<BR />
+</p>
+					
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Die aktualisierten Fahrplandaten stehen in den digitalen Auskunftsmedien zur Verfügung.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten, Mund und Nase bedecken! Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.12.2020 11:31 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Aktualisierung -  einige Züge der Linien RE4 und RB66 fahren ab 1. Februar wieder zwischen Szczecin Główny und Löcknitz bzw. Tantow, der Großteil der Züge der Linien RE4 und RB66 fällt weiterhin aus <span>(Zugausfälle aufgrund behördlicher Anordnung )</span></h2>
+			<p class="duration">bis vsl. 28. Februar 2021</p>
+		</header>
+		<div class="cont">
+			
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Aufgrund einer Anordnung der polnischen Behörden im Zusammenhang mit der Covid-19 Pandemie gibt es ab 28. Dezember Einschränkungen im grenzüberschreitenden Zugverkehr zwischen Deutschland und Polen auf den Linien <B>RE4 (Lübeck - Pasewalk - Szczecin)</B> sowie <B>RE/RB66 (Berlin - Angermünde - Szczecin)</B>.<BR />
+<BR />
+<B>Vom 1. Februar bis vsl. 28. Februar 2021 gelten folgende Regelungen:</B><BR />
+<BR />
+Folgende Züge der Linie RE/RB66 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RB 5803 Szczecin Główny ab 19:51 Uhr nach Berlin Gesundbrunnen<BR />
+•	RB 5809 Szczecin Główny ab 10:06 Uhr nach Berlin Gesundbrunnen<BR />
+<BR />
+•	RB 5800 Berlin Gesundbrunnen ab 08:04 Uhr nach Szczecin Główny<BR />
+•	RB 5802 Berlin Gesundbrunnen ab 17:19 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE/RB66 entfallen weiterhin zwischen Szczecin Główny und  Tantow.<BR />
+<BR />
+Folgende Züge der Linie RE4 fahren wieder bis bzw. von Szczecin Główny durch:<BR />
+•	RE 5354 Szczecin Główny ab 09:00 Uhr nach Lübeck Hbf<BR />
+•	RE 5362 Szczecin Główny ab 17:00 Uhr nach Lübeck Hbf<BR />
+<BR />
+•	RE 5353 Bützow ab 05:33 Uhr nach Szczecin Główny<BR />
+•	RE 5361 Lübeck Hbf ab 12:02 Uhr nach Szczecin Główny<BR />
+<BR />
+Alle anderen Züge der Linie RE4 entfallen weiterhin zwischen Szczecin Główny und Löcknitz. Zwischen Löcknitz und Grambow ist ein Ersatzverkehr mit einem Großraumtaxi [siehe Fahrplantabelle] eingerichtet.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_nordost/mdb_326671_20210128_ev_mv_re4_wlk_xpsg_01_02-13_02_2021_fpl_m1_suh_k.pdf" target="_blank">Ersatzfahrplan (PDF, 152.70KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Für Fragen und Hinweise steht Ihnen in der Zeit von Montag bis Freitag von 6 bis 20 Uhr der Kundendialog DB Regio Nordost unter 0331 235-6881 und 0385 750-2405 zur Verfügung.<BR />
+Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf bahn.de/reiseauskunft oder vbb.de, in der App DB Navigator oder in der VBB-App Bus&Bahn, in der App DB Streckenagent oder bei der telefonischen Reiseauskunft 0180/6996633 (20ct/Anruf, bei Mobilfunk max. 60ct/Anruf) zu informieren.<BR />
+<BR />
+Gemeinsam gegen Corona: Abstand halten und medizinische Maske tragen! An Haltestellen und Bahnhöfen sowie in Fahrzeugen.Keep distance, cover mouth and nose!</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.02.2021 10:23 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Hamburg <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage der S-Bahn Hamburg finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnHamburg" target="_blank">Twitter-Kanal</a>.</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 10.03.2020 16:32 Uhr - DB Regio Nord (TP Nord)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Information zur Baumaßnahme Trier ↔ Merzig <span>(Verlegung der SEV-Haltestelle)</span></h2>
+			<p class="duration">11.01.2021 - 08.03.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Um einen reibungsloseren Ablauf und die Einhaltung der Fahrzeiten möglich zu machen, werden die Ersatzverkehr-Haltestellen in Saarhölzbach, Wiltingen und Serrig verlegt. </p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text"><B> Die Haltstelle Saarhölzbach finden Sie ab dem 11.01.21 in der Straße &quot;Im Saartal&quot;. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<B> Die Haltestelle in Serrig finden Sie ab ab sofort in der Martinusstraße. </B><BR />
+<BR />
+<B> Die Haltestelle in Wiltingen(Saar) finden Sie ab sofort an der Ecke Bahnhofstraße / Rosi's Weinstube. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+<BR />
+<B> Die Haltestelle am Bahnhof Kreuz Konz finden Sie ab sofort bis zum 08.02.21 auf dem P&R Parkplatz. </B><BR />
+Eine Wegbeschreibung finden Sie weiter unten ↓<BR />
+<BR />
+</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_325885_sev_saarhlzbach.pdf" target="_blank">Wegbeschreibung → Saarhölzbach (PDF, 311.81KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326106_schienenersatzverkehr_kreuz_konz.pdf" target="_blank">Wegbescheibung → Kreuz Konz (PDF, 216.93KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326581_sev_wiltingen.pdf" target="">Wegbescheibung → Wiltingen (PDF, 134.27KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Baumaßnahme auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter:<BR />
+<a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+DB Regio AG, Region Mitte </p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 15.02.2021 09:30 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Zugausfälle im grenzüberschreitenden Verkehr nach Frankreich <span>(behördliche Anordnung / Baumaßnahmen)</span></h2>
+			<p class="duration">vsl. bis 21.02.2021</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Aufgrund behördlicher Anordnung im Zusammenhang mit der Covid-19 Pandemie und zusätzlichen Baumaßnahmen bei der SNCF kommt es im grenzüberschreitenden Verkehr von Saarbrücken nach Metz  und von Trier nach Metz zu Zugausfällen.<BR />
+</p></div></div>
+			
+			
+      <ul class="bullet-list">
+        <li><span>RE16 Trier - Perl - Apach - Metz</span></li>
+        <li><span>RE18 Saarbrücken - Forbach - Metz</span></li>
+      </ul>
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					<p class="text">Die Züge der Linie RE16 (Sa + So) entfallen zwischen Trier und Metz ersatzlos.<BR />
+<BR />
+Die ausfallenden Züge der Linie RE18 werden zwischen Saarbrücken und Forbach durch Busse ersetzt.<BR />
+Die Ersatzfahrpläne finden Sie in angefügtem Download.</p>
+					
+      <ul class="link-list">
+          <li>
+            <div class="dl-file">
+              <a class="link acrobat" href="/p/view/mdb/tp/tp_suedwest/mdb_326794_saarbrcken-forbach-metz_ab_01_02_21.pdf" target="_blank">Ersatzverkehr Saarbrücken - Forbach ab 01.02.2021 (PDF, 83.73KB)</a>
+              <p class="dl-description"></p>
+            </div>
+          </li>
+      </ul>
+					<p class="nachtext">Bitte rechnen Sie für die Dauer der Störung auf jeden Fall mehr Reisezeit ein und prüfen Sie Ihre Reiseverbindung noch einmal unmittelbar vor Fahrtantritt unter <a href='http://www.bahn.de' target='_blank'>www.bahn.de </a>, <a href='http://www.bahn.de/ris' target='_blank'>www.bahn.de/ris</a> mit mobilen Endgeräten unter <a href='http://mobile.bahn.de' target='_blank'>mobile.bahn.de</a> oder in der <a href=https://www.bahn.de/p/view/service/buchung/mobil/db-navigator.shtml> DB Navigator-App</a>.<BR />
+<BR />
+Weitere Informationen erhalten Sie auch über die App  <a href=https://www.bahn.de/p/view/service/buchung/mobil/streckenagent-app.shtml>DB-Streckenagent </a> oder auf <a href=http://www.twitter.com/Regio_Mitte>twitter.com/regio_mitte</a>.<BR />
+<BR />
+Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.<BR />
+<BR />
+DB Regio AG, Region Mitte<BR />
+</p>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 13.02.2021 21:41 Uhr - DB Regio Mitte (TP Südwest)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Berlin <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Informationen zur Anpassung der Verkehrsleistung finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/aktuelles/artikel/informationen-zum-coronavirus-covid-19" target="_blank">hier.</a><BR />
+<BR />
+Meldungen über die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a class="arrowlink bold" href="https://sbahn.berlin/fahren/fahrplanaenderungen/" target="_blank">hier.</a><BR />
+<BR />
+Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zugänglichen <a class="arrowlink bold" href="https://twitter.com/SBahnBerlin" target="_blank">Twitterkanal.</a><BR />
+</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 27.03.2020 14:17 Uhr - DB Regio Nordost (TP Nordost)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der DB Regio Bayern <span>(Störungen)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage des Regionalverkehrs in Bayern finden Sie auf den folgenden Seiten:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="/regional/view/regionen/bayern/services/aktuelle_betriebslage.shtml" target="_blank">Meldungen der DB Regio Bayern</a></span></li>
+              
+              <li><span><a href="/s_muenchen/view/fahrplan/betriebslage.shtml" target="_blank">Meldungen der S-Bahn München</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 07.12.2020 09:08 Uhr - DB Regio Bayern (TP Süd)</p>
+		</footer>
+	</article>
+
+	<article class="incident compact long-text " tabindex="0">
+		<a class="more-less-button"></a>
+		<header>
+			<h2 class="margin-top-0">Meldungen der S-Bahn Stuttgart <span>(Betriebslage)</span></h2>
+			<p class="duration">unbefristet</p>
+		</header>
+		<div class="cont">
+			<div class="accordion-1"><div class="accordion-content js-accordion-content"><p class="vortext">Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden Sie auf:</p></div></div>
+			
+			
+			<div class="accordion-2">
+				<div class="accordion-content js-accordion-content">
+					
+					
+      <ul class="link-list">
+              <li><span><a href="https://www.s-bahn-stuttgart.de/s-stuttgart/betriebslage-4097192" target="_blank">Betriebslage der S-Bahn Stuttgart</a></span></li>
+              
+              <li><span><a href="https://twitter.com/SBahn_Stuttgart" target="_blank">Twitter</a></span></li>
+              
+      </ul>
+					
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p class="timestamp">Letzte Aktualisierung 20.02.2020 10:57 Uhr - DB Regio Baden-Württemberg (TP Karlsruhe)</p>
+		</footer>
+	</article>
+
+}<EndeUpdate>
+
+
